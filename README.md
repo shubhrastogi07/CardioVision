@@ -1,2 +1,1 @@
-# CardioVision
-Heart Attack Prediction using Machine Learning Algorithms
+# Cardio_Vision
